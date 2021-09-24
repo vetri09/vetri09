@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a Social media application](https://github.com/vetri09/cg)
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Javascript or React**
 
