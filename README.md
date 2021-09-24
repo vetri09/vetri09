@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Vetrivelan G</h1>
 
-- 🔭 I’m currently working on **a Social media application**
+- 🔭 I’m currently working on [Social media application](https://github.com/vetri09/cg)
 
 - 🌱 I’m currently learning **React, Node**
 
