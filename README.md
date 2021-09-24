@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vetri09&show_icons=true&locale=en&layout=compact" alt="vetri09" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vetri09&show_icons=true&locale=en" alt="vetri09" /></p>
+<p><img align="center" width="200px" src="https://github-readme-stats.vercel.app/api?username=vetri09&show_icons=true&locale=en" alt="vetri09" /></p>
