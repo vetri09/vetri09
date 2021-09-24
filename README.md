@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Vetrivelan G</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vetrivelan G</h1>
 
 - 🔭 I’m currently working on [Social media application](https://github.com/vetri09/cg)
 
