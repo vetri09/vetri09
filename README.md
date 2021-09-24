@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vetrivelan G</h1>
+<h1>Hi 👋, I'm Vetrivelan G</h1>
+
 - 🔭 I’m currently working on **a Social media application**
 
 - 🌱 I’m currently learning **React, Node**
