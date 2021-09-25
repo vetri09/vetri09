@@ -1,5 +1,5 @@
 <h1>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>Hi, I'm Vetrivelan, a passionate self-taught full stack web developer</h3>
+<h3>Hi, I'm Vetrivelan, a passionate full stack web developer</h3>
 
 - 🔭 I’m currently working on [a Social media application](https://github.com/vetri09/cg)
 
