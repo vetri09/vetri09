@@ -1,4 +1,6 @@
 <h1>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+![Make your README (1)](https://github.com/vetri09/vetri09/assets/62693952/5ac10f21-43bb-454a-928c-bb0d0d80558d)
+
 <h3>Hi, I'm Vetrivelan, a passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [a Social media application](https://github.com/vetri09/cg)
