@@ -1,7 +1,5 @@
-# ⚡️ Welcome to my Github! 
-![Make your README](https://github.com/mxharryx/mxharryx/assets/57700846/630700ce-be6d-4541-be47-aad926661812)
-
 <h1>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+![Make your README (1)](https://github.com/vetri09/vetri09/assets/62693952/0aaaa61c-501e-4d84-be2e-919a6fa4d9c0)
 
 <h3>Hi, I'm Vetrivelan, a passionate frontend developer</h3>
 
