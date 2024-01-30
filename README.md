@@ -1,6 +1,5 @@
-![Make your README (1)](https://github.com/vetri09/vetri09/assets/62693952/b869fd24-df63-4508-adbb-feac02d53677)
-
 <h1>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+![Make your README (1)](https://github.com/vetri09/vetri09/assets/62693952/b869fd24-df63-4508-adbb-feac02d53677)
 
 
 <h3>Hi, I'm Vetrivelan, a passionate frontend developer</h3>
